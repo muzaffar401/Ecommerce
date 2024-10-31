@@ -369,14 +369,14 @@
     }
 }
 
-@media screen and (max-width: 370px) {
+@media screen and (max-width: 350px) {
     .Cards_productimage__tH3SN {
         width:130px
     }
 
     .Cards_card__qz_VZ {
         padding: 10px;
-        height: 387px;
+        height: 420px;
         width: 150px
     }
 }
