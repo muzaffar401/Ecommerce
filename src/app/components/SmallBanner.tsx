@@ -30,7 +30,7 @@ const SmallBanner = () => {
                         <div className="mini_banner_info">
                             <h1>Apple Airpods<span> MAX</span></h1>
                             <p className="smaller_banner_desc">
-                                Computational audio. Listen, it's powerful.
+                                Computational audio. Listen, it&rsquo;s powerful.
                             </p>
                         </div>
                     </div>
